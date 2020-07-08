@@ -66,7 +66,7 @@ For configuring against Medic Mobile-hosted instances.
 
 	medic-conf --instance=instance-name.dev
 
-Username `admin` is used.  A prompt is shown for entering password.
+Username `admin` is used. A prompt is shown for entering password.
 
 If a different username is required, add the `--user` switch:
 
@@ -278,7 +278,7 @@ Execute `npm test` to run static analysis checks and the test suite.
 
 ## Build status
 
-Builds brought to you courtesy of [Travis CI](https://travis-ci.org/medic/cht-conf).
+Builds brought to you courtesy of [Travis CI](https://travis-ci.org/medic/medic-conf).
 
 <a href="https://travis-ci.org/medic/medic-conf"><img src="https://travis-ci.org/medic/medic-conf.svg?branch=master"/></a>
 
